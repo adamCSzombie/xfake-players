@@ -1,0 +1,507 @@
+22:16:54 - XFakePlayers v1.13.1
+22:16:54 - Code by ZeaL
+ 
+22:16:54 - Loaded 10590 names.
+22:16:54 - Loaded 1 servers.
+22:17:17 - Start
+22:17:17 - ANecJDNSfKZAjYfiWzcIdQMMjx (81.0.217.179:27515) initialized connection
+22:17:18 - ANecJDNSfKZAjYfiWzcIdQMMjx (81.0.217.179:27515) STUFFTEXT "bind v piss"
+22:17:18 - ANecJDNSfKZAjYfiWzcIdQMMjx (81.0.217.179:27515) STUFFTEXT "retry"
+22:17:18 - ANecJDNSfKZAjYfiWzcIdQMMjx (81.0.217.179:27515) disconnected, reason: "Client sent 'drop'"
+22:17:18 - ANecJDNSfKZAjYfiWzcIdQMMjx (81.0.217.179:27515) initialized connection
+22:17:18 - ANecJDNSfKZAjYfiWzcIdQMMjx (81.0.217.179:27515) STUFFTEXT "bind v piss"
+22:17:18 - ANecJDNSfKZAjYfiWzcIdQMMjx (81.0.217.179:27515) STUFFTEXT "_211021038082179"
+22:17:18 - ANecJDNSfKZAjYfiWzcIdQMMjx (81.0.217.179:27515) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:17:18 - ANecJDNSfKZAjYfiWzcIdQMMjx (81.0.217.179:27515) STUFFTEXT "VTC_CheckStart"
+22:17:18 - ANecJDNSfKZAjYfiWzcIdQMMjx (81.0.217.179:27515) STUFFTEXT "vgui_runscript"
+22:17:18 - ANecJDNSfKZAjYfiWzcIdQMMjx (81.0.217.179:27515) STUFFTEXT "VTC_CheckEnd"
+22:17:18 - ANecJDNSfKZAjYfiWzcIdQMMjx (81.0.217.179:27515) connected
+22:17:19 - ANecJDNSfKZAjYfiWzcIdQMMjx (81.0.217.179:27515) STUFFTEXT "akce"
+22:17:20 - AnXAwzCUQxnEu (81.0.217.179:27515) initialized connection
+22:17:21 - AnXAwzCUQxnEu (81.0.217.179:27515) STUFFTEXT "bind v piss"
+22:17:21 - AnXAwzCUQxnEu (81.0.217.179:27515) STUFFTEXT "retry"
+22:17:21 - AnXAwzCUQxnEu (81.0.217.179:27515) disconnected, reason: "Client sent 'drop'"
+22:17:21 - AnXAwzCUQxnEu (81.0.217.179:27515) initialized connection
+22:17:21 - AnXAwzCUQxnEu (81.0.217.179:27515) STUFFTEXT "bind v piss"
+22:17:21 - AnXAwzCUQxnEu (81.0.217.179:27515) STUFFTEXT "_20222061349673"
+22:17:21 - AnXAwzCUQxnEu (81.0.217.179:27515) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:17:21 - AnXAwzCUQxnEu (81.0.217.179:27515) STUFFTEXT "VTC_CheckStart"
+22:17:21 - AnXAwzCUQxnEu (81.0.217.179:27515) STUFFTEXT "vgui_runscript"
+22:17:21 - AnXAwzCUQxnEu (81.0.217.179:27515) STUFFTEXT "VTC_CheckEnd"
+22:17:21 - AnXAwzCUQxnEu (81.0.217.179:27515) connected
+22:17:21 - ANecJDNSfKZAjYfiWzcIdQMMjx (81.0.217.179:27515) STUFFTEXT "ttmenu"
+22:17:22 - AnXAwzCUQxnEu (81.0.217.179:27515) STUFFTEXT "akce"
+22:17:23 - cfLOZMgVmTntvMi (81.0.217.179:27515) initialized connection
+22:17:23 - AnXAwzCUQxnEu (81.0.217.179:27515) STUFFTEXT "ttmenu"
+22:17:24 - cfLOZMgVmTntvMi (81.0.217.179:27515) STUFFTEXT "bind v piss"
+22:17:24 - cfLOZMgVmTntvMi (81.0.217.179:27515) STUFFTEXT "retry"
+22:17:24 - cfLOZMgVmTntvMi (81.0.217.179:27515) disconnected, reason: "Client sent 'drop'"
+22:17:24 - cfLOZMgVmTntvMi (81.0.217.179:27515) initialized connection
+22:17:24 - cfLOZMgVmTntvMi (81.0.217.179:27515) STUFFTEXT "bind v piss"
+22:17:24 - cfLOZMgVmTntvMi (81.0.217.179:27515) STUFFTEXT "_001102041975724"
+22:17:24 - cfLOZMgVmTntvMi (81.0.217.179:27515) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:17:24 - cfLOZMgVmTntvMi (81.0.217.179:27515) STUFFTEXT "VTC_CheckStart"
+22:17:24 - cfLOZMgVmTntvMi (81.0.217.179:27515) STUFFTEXT "vgui_runscript"
+22:17:24 - cfLOZMgVmTntvMi (81.0.217.179:27515) STUFFTEXT "VTC_CheckEnd"
+22:17:24 - cfLOZMgVmTntvMi (81.0.217.179:27515) connected
+22:17:25 - cfLOZMgVmTntvMi (81.0.217.179:27515) STUFFTEXT "akce"
+22:17:26 - NW (81.0.217.179:27515) initialized connection
+22:17:26 - cfLOZMgVmTntvMi (81.0.217.179:27515) STUFFTEXT "ttmenu"
+22:17:27 - NW (81.0.217.179:27515) STUFFTEXT "bind v piss"
+22:17:27 - NW (81.0.217.179:27515) STUFFTEXT "retry"
+22:17:27 - NW (81.0.217.179:27515) disconnected, reason: "Client sent 'drop'"
+22:17:27 - NW (81.0.217.179:27515) initialized connection
+22:17:27 - NW (81.0.217.179:27515) STUFFTEXT "bind v piss"
+22:17:27 - NW (81.0.217.179:27515) STUFFTEXT "_0000021022004284551"
+22:17:27 - NW (81.0.217.179:27515) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:17:27 - NW (81.0.217.179:27515) STUFFTEXT "VTC_CheckStart"
+22:17:27 - NW (81.0.217.179:27515) STUFFTEXT "vgui_runscript"
+22:17:27 - NW (81.0.217.179:27515) STUFFTEXT "VTC_CheckEnd"
+22:17:27 - NW (81.0.217.179:27515) connected
+22:17:28 - NW (81.0.217.179:27515) STUFFTEXT "akce"
+22:17:29 - ajZrWNlDopcjXxsj (81.0.217.179:27515) initialized connection
+22:17:29 - NW (81.0.217.179:27515) STUFFTEXT "ttmenu"
+22:17:30 - ajZrWNlDopcjXxsj (81.0.217.179:27515) STUFFTEXT "bind v piss"
+22:17:30 - ajZrWNlDopcjXxsj (81.0.217.179:27515) STUFFTEXT "retry"
+22:17:30 - ajZrWNlDopcjXxsj (81.0.217.179:27515) disconnected, reason: "Client sent 'drop'"
+22:17:30 - ajZrWNlDopcjXxsj (81.0.217.179:27515) initialized connection
+22:17:30 - ajZrWNlDopcjXxsj (81.0.217.179:27515) STUFFTEXT "bind v piss"
+22:17:30 - ajZrWNlDopcjXxsj (81.0.217.179:27515) STUFFTEXT "_02100112125407688"
+22:17:30 - ajZrWNlDopcjXxsj (81.0.217.179:27515) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:17:31 - ANecJDNSfKZAjYfiWzcIdQMMjx (81.0.217.179:27515) disconnected, reason: "Fake players spamming or protocol violations"
+22:17:31 - AnXAwzCUQxnEu (81.0.217.179:27515) disconnected, reason: "Fake players spamming or protocol violations"
+22:17:31 - cfLOZMgVmTntvMi (81.0.217.179:27515) disconnected, reason: "Fake players spamming or protocol violations"
+22:17:31 - NW (81.0.217.179:27515) disconnected, reason: "Fake players spamming or protocol violations"
+22:17:31 - ajZrWNlDopcjXxsj (81.0.217.179:27515) disconnected, reason: "Fake players spamming or protocol violations"
+22:17:32 - XQSgknRQThDrNDTQCSGyAEAnmKbA (81.0.217.179:27515) initialized connection
+22:17:34 - XQSgknRQThDrNDTQCSGyAEAnmKbA (81.0.217.179:27515) disconnected, reason: "Cannot connect to "81.0.217.179:27515""
+22:17:35 - aZ (81.0.217.179:27515) initialized connection
+22:17:37 - aZ (81.0.217.179:27515) disconnected, reason: "Cannot connect to "81.0.217.179:27515""
+22:17:38 - xAxZCoYUV (81.0.217.179:27515) initialized connection
+22:17:39 - xAxZCoYUV (81.0.217.179:27515) disconnected, reason: "Client sent 'drop'"
+22:17:41 - Paused
+22:17:41 - KvXWIcFCekOyVWoaRG (81.0.217.179:27515) initialized connection
+22:17:41 - Stopping..
+22:17:42 - KvXWIcFCekOyVWoaRG (81.0.217.179:27515) disconnected, reason: "Client sent 'drop'"
+22:17:42 - Stop
+22:18:11 - Start
+22:18:16 - IroNNNNNN (81.0.217.178:27684) initialized connection
+22:18:17 - IroNNNNNN (81.0.217.178:27684) STUFFTEXT "bind v piss"
+22:18:17 - IroNNNNNN (81.0.217.178:27684) STUFFTEXT "_110102113609022679"
+22:18:17 - IroNNNNNN (81.0.217.178:27684) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:18:17 - IroNNNNNN (81.0.217.178:27684) STUFFTEXT "VTC_CheckStart"
+22:18:17 - IroNNNNNN (81.0.217.178:27684) STUFFTEXT "vgui_runscript"
+22:18:17 - IroNNNNNN (81.0.217.178:27684) STUFFTEXT "VTC_CheckEnd"
+22:18:17 - IroNNNNNN (81.0.217.178:27684) connected
+22:18:18 - IroNNNNNN (81.0.217.178:27684) STUFFTEXT "akce"
+22:18:20 - IroNNNNNN (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:18:21 - ***vatam*** (81.0.217.178:27684) initialized connection
+22:18:22 - ***vatam*** (81.0.217.178:27684) STUFFTEXT "bind v piss"
+22:18:22 - ***vatam*** (81.0.217.178:27684) STUFFTEXT "_0000021022004284551"
+22:18:22 - ***vatam*** (81.0.217.178:27684) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:18:23 - ***vatam*** (81.0.217.178:27684) STUFFTEXT "VTC_CheckStart"
+22:18:23 - ***vatam*** (81.0.217.178:27684) STUFFTEXT "vgui_runscript"
+22:18:23 - ***vatam*** (81.0.217.178:27684) STUFFTEXT "VTC_CheckEnd"
+22:18:23 - ***vatam*** (81.0.217.178:27684) connected
+22:18:24 - ***vatam*** (81.0.217.178:27684) STUFFTEXT "akce"
+22:18:26 - Luano (BD) (81.0.217.178:27684) initialized connection
+22:18:28 - Luano (BD) (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+22:18:31 - SKarpY (81.0.217.178:27684) initialized connection
+22:18:33 - SKarpY (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+22:18:36 - Lemming (81.0.217.178:27684) initialized connection
+22:18:38 - Lemming (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+22:18:41 - mamka 228 (81.0.217.178:27684) initialized connection
+22:18:43 - mamka 228 (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+22:18:46 - ***vatam*** (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:18:46 - lzlal;s;as (81.0.217.178:27684) initialized connection
+22:18:47 - lzlal;s;as (81.0.217.178:27684) STUFFTEXT "bind v piss"
+22:18:47 - lzlal;s;as (81.0.217.178:27684) STUFFTEXT "_021200003949940310"
+22:18:47 - lzlal;s;as (81.0.217.178:27684) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:18:48 - lzlal;s;as (81.0.217.178:27684) STUFFTEXT "VTC_CheckStart"
+22:18:48 - lzlal;s;as (81.0.217.178:27684) STUFFTEXT "vgui_runscript"
+22:18:48 - lzlal;s;as (81.0.217.178:27684) STUFFTEXT "VTC_CheckEnd"
+22:18:48 - lzlal;s;as (81.0.217.178:27684) connected
+22:18:49 - lzlal;s;as (81.0.217.178:27684) STUFFTEXT "akce"
+22:18:51 - {KoWe4Ka}_Mrrrrrrrrrrrrr (81.0.217.178:27684) initialized connection
+22:18:52 - {KoWe4Ka}_Mrrrrrrrrrrrrr (81.0.217.178:27684) STUFFTEXT "bind v piss"
+22:18:52 - {KoWe4Ka}_Mrrrrrrrrrrrrr (81.0.217.178:27684) STUFFTEXT "_211021038082179"
+22:18:52 - {KoWe4Ka}_Mrrrrrrrrrrrrr (81.0.217.178:27684) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:18:53 - {KoWe4Ka}_Mrrrrrrrrrrrrr (81.0.217.178:27684) STUFFTEXT "VTC_CheckStart"
+22:18:53 - {KoWe4Ka}_Mrrrrrrrrrrrrr (81.0.217.178:27684) STUFFTEXT "vgui_runscript"
+22:18:54 - {KoWe4Ka}_Mrrrrrrrrrrrrr (81.0.217.178:27684) STUFFTEXT "VTC_CheckEnd"
+22:18:54 - {KoWe4Ka}_Mrrrrrrrrrrrrr (81.0.217.178:27684) connected
+22:18:54 - {KoWe4Ka}_Mrrrrrrrrrrrrr (81.0.217.178:27684) STUFFTEXT "akce"
+22:18:56 - Stasidze (81.0.217.178:27684) initialized connection
+22:18:58 - Stasidze (81.0.217.178:27684) STUFFTEXT "bind v piss"
+22:18:58 - Stasidze (81.0.217.178:27684) STUFFTEXT "_2112120935321536"
+22:18:58 - Stasidze (81.0.217.178:27684) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:18:59 - Stasidze (81.0.217.178:27684) STUFFTEXT "VTC_CheckStart"
+22:18:59 - Stasidze (81.0.217.178:27684) STUFFTEXT "vgui_runscript"
+22:18:59 - Stasidze (81.0.217.178:27684) STUFFTEXT "VTC_CheckEnd"
+22:18:59 - Stasidze (81.0.217.178:27684) connected
+22:19:00 - Stasidze (81.0.217.178:27684) STUFFTEXT "akce"
+22:19:01 - TyPyK MAK TO (81.0.217.178:27684) initialized connection
+22:19:02 - TyPyK MAK TO (81.0.217.178:27684) STUFFTEXT "bind v piss"
+22:19:02 - TyPyK MAK TO (81.0.217.178:27684) STUFFTEXT "_02222023752667537"
+22:19:02 - TyPyK MAK TO (81.0.217.178:27684) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:19:03 - TyPyK MAK TO (81.0.217.178:27684) STUFFTEXT "VTC_CheckStart"
+22:19:03 - TyPyK MAK TO (81.0.217.178:27684) STUFFTEXT "vgui_runscript"
+22:19:03 - TyPyK MAK TO (81.0.217.178:27684) STUFFTEXT "VTC_CheckEnd"
+22:19:03 - TyPyK MAK TO (81.0.217.178:27684) connected
+22:19:04 - TyPyK MAK TO (81.0.217.178:27684) STUFFTEXT "akce"
+22:19:06 - SnK (81.0.217.178:27684) initialized connection
+22:19:07 - SnK (81.0.217.178:27684) STUFFTEXT "bind v piss"
+22:19:07 - SnK (81.0.217.178:27684) STUFFTEXT "_2111022201994387186"
+22:19:07 - SnK (81.0.217.178:27684) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:19:08 - SnK (81.0.217.178:27684) STUFFTEXT "VTC_CheckStart"
+22:19:08 - SnK (81.0.217.178:27684) STUFFTEXT "vgui_runscript"
+22:19:08 - SnK (81.0.217.178:27684) STUFFTEXT "VTC_CheckEnd"
+22:19:08 - SnK (81.0.217.178:27684) connected
+22:19:08 - SnK (81.0.217.178:27684) STUFFTEXT "akce"
+22:19:11 - DoKToR (81.0.217.178:27684) initialized connection
+22:19:12 - DoKToR (81.0.217.178:27684) STUFFTEXT "bind v piss"
+22:19:12 - DoKToR (81.0.217.178:27684) STUFFTEXT "_20222061349673"
+22:19:12 - DoKToR (81.0.217.178:27684) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:19:13 - DoKToR (81.0.217.178:27684) STUFFTEXT "VTC_CheckStart"
+22:19:13 - DoKToR (81.0.217.178:27684) STUFFTEXT "vgui_runscript"
+22:19:13 - DoKToR (81.0.217.178:27684) STUFFTEXT "VTC_CheckEnd"
+22:19:13 - DoKToR (81.0.217.178:27684) connected
+22:19:14 - DoKToR (81.0.217.178:27684) STUFFTEXT "akce"
+22:19:16 - spiznaz (81.0.217.178:27684) initialized connection
+22:19:17 - spiznaz (81.0.217.178:27684) STUFFTEXT "bind v piss"
+22:19:17 - spiznaz (81.0.217.178:27684) STUFFTEXT "_22024013926683"
+22:19:17 - spiznaz (81.0.217.178:27684) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:19:18 - spiznaz (81.0.217.178:27684) STUFFTEXT "VTC_CheckStart"
+22:19:18 - spiznaz (81.0.217.178:27684) STUFFTEXT "vgui_runscript"
+22:19:18 - spiznaz (81.0.217.178:27684) STUFFTEXT "VTC_CheckEnd"
+22:19:18 - spiznaz (81.0.217.178:27684) connected
+22:19:19 - spiznaz (81.0.217.178:27684) STUFFTEXT "akce"
+22:19:21 - 4 REGION || BETONSCHIK BLR (81.0.217.178:27684) initialized connection
+22:19:22 - 4 REGION || BETONSCHIK BLR (81.0.217.178:27684) STUFFTEXT "bind v piss"
+22:19:22 - 4 REGION || BETONSCHIK BLR (81.0.217.178:27684) STUFFTEXT "_001102041975724"
+22:19:22 - 4 REGION || BETONSCHIK BLR (81.0.217.178:27684) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:19:23 - 4 REGION || BETONSCHIK BLR (81.0.217.178:27684) STUFFTEXT "VTC_CheckStart"
+22:19:23 - 4 REGION || BETONSCHIK BLR (81.0.217.178:27684) STUFFTEXT "vgui_runscript"
+22:19:23 - 4 REGION || BETONSCHIK BLR (81.0.217.178:27684) STUFFTEXT "VTC_CheckEnd"
+22:19:23 - 4 REGION || BETONSCHIK BLR (81.0.217.178:27684) connected
+22:19:24 - 4 REGION || BETONSCHIK BLR (81.0.217.178:27684) STUFFTEXT "akce"
+22:19:26 - spblive (81.0.217.178:27684) initialized connection
+22:19:27 - spblive (81.0.217.178:27684) STUFFTEXT "bind v piss"
+22:19:27 - spblive (81.0.217.178:27684) STUFFTEXT "_201223857706624"
+22:19:27 - spblive (81.0.217.178:27684) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:19:28 - spblive (81.0.217.178:27684) STUFFTEXT "VTC_CheckStart"
+22:19:28 - spblive (81.0.217.178:27684) STUFFTEXT "vgui_runscript"
+22:19:28 - spblive (81.0.217.178:27684) STUFFTEXT "VTC_CheckEnd"
+22:19:28 - spblive (81.0.217.178:27684) connected
+22:19:29 - spblive (81.0.217.178:27684) STUFFTEXT "akce"
+22:19:29 - TyPyK MAK TO (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_traitors.wav""
+22:19:29 - IroNNNNNN (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_traitors.wav""
+22:19:29 - DoKToR (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_traitors.wav""
+22:19:29 - lzlal;s;as (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_traitors.wav""
+22:19:29 - Stasidze (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_traitors.wav""
+22:19:29 - {KoWe4Ka}_Mrrrrrrrrrrrrr (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_traitors.wav""
+22:19:29 - spblive (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_traitors.wav""
+22:19:29 - 4 REGION || BETONSCHIK BLR (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_traitors.wav""
+22:19:29 - spiznaz (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_traitors.wav""
+22:19:29 - SnK (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_traitors.wav""
+22:19:29 - ***vatam*** (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_traitors.wav""
+22:19:29 - TyPyK MAK TO (81.0.217.178:27684) STUFFTEXT "-attack"
+22:19:29 - IroNNNNNN (81.0.217.178:27684) STUFFTEXT "-attack"
+22:19:29 - DoKToR (81.0.217.178:27684) STUFFTEXT "-attack"
+22:19:29 - lzlal;s;as (81.0.217.178:27684) STUFFTEXT "-attack"
+22:19:29 - Stasidze (81.0.217.178:27684) STUFFTEXT "-attack"
+22:19:29 - {KoWe4Ka}_Mrrrrrrrrrrrrr (81.0.217.178:27684) STUFFTEXT "-attack"
+22:19:29 - spblive (81.0.217.178:27684) STUFFTEXT "-attack"
+22:19:30 - 4 REGION || BETONSCHIK BLR (81.0.217.178:27684) STUFFTEXT "-attack"
+22:19:30 - spiznaz (81.0.217.178:27684) STUFFTEXT "-attack"
+22:19:30 - SnK (81.0.217.178:27684) STUFFTEXT "-attack"
+22:19:30 - ***vatam*** (81.0.217.178:27684) STUFFTEXT "-attack"
+22:19:30 - TyPyK MAK TO (81.0.217.178:27684) STUFFTEXT "-attack2"
+22:19:30 - IroNNNNNN (81.0.217.178:27684) STUFFTEXT "-attack2"
+22:19:30 - DoKToR (81.0.217.178:27684) STUFFTEXT "-attack2"
+22:19:30 - lzlal;s;as (81.0.217.178:27684) STUFFTEXT "-attack2"
+22:19:30 - Stasidze (81.0.217.178:27684) STUFFTEXT "-attack2"
+22:19:30 - {KoWe4Ka}_Mrrrrrrrrrrrrr (81.0.217.178:27684) STUFFTEXT "-attack2"
+22:19:30 - spblive (81.0.217.178:27684) STUFFTEXT "-attack2"
+22:19:30 - 4 REGION || BETONSCHIK BLR (81.0.217.178:27684) STUFFTEXT "-attack2"
+22:19:30 - spiznaz (81.0.217.178:27684) STUFFTEXT "-attack2"
+22:19:30 - SnK (81.0.217.178:27684) STUFFTEXT "-attack2"
+22:19:30 - ***vatam*** (81.0.217.178:27684) STUFFTEXT "-attack2"
+22:19:31 - Noureddine10 (81.0.217.178:27684) initialized connection
+22:19:32 - Noureddine10 (81.0.217.178:27684) STUFFTEXT "bind v piss"
+22:19:32 - Noureddine10 (81.0.217.178:27684) STUFFTEXT "_102004025954484"
+22:19:32 - Noureddine10 (81.0.217.178:27684) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:19:33 - Noureddine10 (81.0.217.178:27684) STUFFTEXT "VTC_CheckStart"
+22:19:33 - Noureddine10 (81.0.217.178:27684) STUFFTEXT "vgui_runscript"
+22:19:33 - Noureddine10 (81.0.217.178:27684) STUFFTEXT "VTC_CheckEnd"
+22:19:33 - Noureddine10 (81.0.217.178:27684) connected
+22:19:34 - Noureddine10 (81.0.217.178:27684) STUFFTEXT "akce"
+22:19:36 - k0$ <3 Ira (81.0.217.178:27684) initialized connection
+22:19:37 - k0$ <3 Ira (81.0.217.178:27684) STUFFTEXT "bind v piss"
+22:19:37 - k0$ <3 Ira (81.0.217.178:27684) STUFFTEXT "_2111022201994387186"
+22:19:37 - k0$ <3 Ira (81.0.217.178:27684) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:19:38 - k0$ <3 Ira (81.0.217.178:27684) STUFFTEXT "VTC_CheckStart"
+22:19:38 - k0$ <3 Ira (81.0.217.178:27684) STUFFTEXT "vgui_runscript"
+22:19:38 - k0$ <3 Ira (81.0.217.178:27684) STUFFTEXT "VTC_CheckEnd"
+22:19:38 - k0$ <3 Ira (81.0.217.178:27684) connected
+22:19:38 - k0$ <3 Ira (81.0.217.178:27684) STUFFTEXT "akce"
+22:19:40 - lzlal;s;as (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:19:40 - Noureddine10 (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:19:40 - ***vatam*** (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:19:40 - spiznaz (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:19:40 - spblive (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:19:40 - 4 REGION || BETONSCHIK BLR (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:19:40 - Stasidze (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:19:40 - SnK (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:19:40 - TyPyK MAK TO (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:19:40 - DoKToR (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:19:40 - {KoWe4Ka}_Mrrrrrrrrrrrrr (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:19:40 - IroNNNNNN (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:19:40 - k0$ <3 Ira (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:19:40 - {KoWe4Ka}_Mrrrrrrrrrrrrr (81.0.217.178:27684) STUFFTEXT "name "*KoWe4Ka*_Mrrrrrrrrrrrrr""
+22:19:41 - -=6apa6aLLIka=- (81.0.217.178:27684) initialized connection
+22:19:42 - -=6apa6aLLIka=- (81.0.217.178:27684) STUFFTEXT "bind v piss"
+22:19:42 - -=6apa6aLLIka=- (81.0.217.178:27684) STUFFTEXT "_20222061349673"
+22:19:42 - -=6apa6aLLIka=- (81.0.217.178:27684) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:19:43 - -=6apa6aLLIka=- (81.0.217.178:27684) STUFFTEXT "VTC_CheckStart"
+22:19:43 - -=6apa6aLLIka=- (81.0.217.178:27684) STUFFTEXT "vgui_runscript"
+22:19:43 - -=6apa6aLLIka=- (81.0.217.178:27684) STUFFTEXT "VTC_CheckEnd"
+22:19:43 - -=6apa6aLLIka=- (81.0.217.178:27684) connected
+22:19:44 - -=6apa6aLLIka=- (81.0.217.178:27684) STUFFTEXT "akce"
+22:19:45 - -=6apa6aLLIka=- (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:19:46 - DuM4O (81.0.217.178:27684) initialized connection
+22:19:47 - DuM4O (81.0.217.178:27684) STUFFTEXT "bind v piss"
+22:19:47 - DuM4O (81.0.217.178:27684) STUFFTEXT "_22024013926683"
+22:19:47 - DuM4O (81.0.217.178:27684) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:19:48 - DuM4O (81.0.217.178:27684) STUFFTEXT "VTC_CheckStart"
+22:19:48 - DuM4O (81.0.217.178:27684) STUFFTEXT "vgui_runscript"
+22:19:48 - DuM4O (81.0.217.178:27684) STUFFTEXT "VTC_CheckEnd"
+22:19:48 - DuM4O (81.0.217.178:27684) connected
+22:19:49 - DuM4O (81.0.217.178:27684) STUFFTEXT "akce"
+22:19:50 - DuM4O (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:19:51 - DrionS (81.0.217.178:27684) initialized connection
+22:19:52 - DrionS (81.0.217.178:27684) disconnected, reason: "Client sent 'drop'"
+22:19:56 - LoVe M2da (81.0.217.178:27684) initialized connection
+22:19:58 - LoVe M2da (81.0.217.178:27684) STUFFTEXT "bind v piss"
+22:19:58 - LoVe M2da (81.0.217.178:27684) STUFFTEXT "_001102041975724"
+22:19:58 - LoVe M2da (81.0.217.178:27684) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:19:59 - LoVe M2da (81.0.217.178:27684) STUFFTEXT "VTC_CheckStart"
+22:19:59 - LoVe M2da (81.0.217.178:27684) STUFFTEXT "vgui_runscript"
+22:19:59 - LoVe M2da (81.0.217.178:27684) STUFFTEXT "VTC_CheckEnd"
+22:19:59 - LoVe M2da (81.0.217.178:27684) connected
+22:20:00 - LoVe M2da (81.0.217.178:27684) STUFFTEXT "akce"
+22:20:01 - SpiNoGrus (81.0.217.178:27684) initialized connection
+22:20:03 - SpiNoGrus (81.0.217.178:27684) STUFFTEXT "bind v piss"
+22:20:03 - ] kill
+22:20:03 - {KoWe4Ka}_Mrrrrrrrrrrrrr (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_innocent.wav""
+22:20:03 - spiznaz (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_innocent.wav""
+22:20:03 - lzlal;s;as (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_innocent.wav""
+22:20:03 - Stasidze (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_innocent.wav""
+22:20:03 - 4 REGION || BETONSCHIK BLR (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_innocent.wav""
+22:20:03 - {KoWe4Ka}_Mrrrrrrrrrrrrr (81.0.217.178:27684) STUFFTEXT "-attack"
+22:20:03 - -=6apa6aLLIka=- (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_innocent.wav""
+22:20:03 - DoKToR (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_innocent.wav""
+22:20:03 - DuM4O (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_innocent.wav""
+22:20:03 - LoVe M2da (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_innocent.wav""
+22:20:03 - k0$ <3 Ira (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_innocent.wav""
+22:20:03 - TyPyK MAK TO (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_innocent.wav""
+22:20:03 - Noureddine10 (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_innocent.wav""
+22:20:03 - spblive (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_innocent.wav""
+22:20:03 - lzlal;s;as (81.0.217.178:27684) STUFFTEXT "-attack"
+22:20:03 - IroNNNNNN (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_innocent.wav""
+22:20:03 - ***vatam*** (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_innocent.wav""
+22:20:03 - SnK (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_innocent.wav""
+22:20:03 - Stasidze (81.0.217.178:27684) STUFFTEXT "-attack"
+22:20:03 - 4 REGION || BETONSCHIK BLR (81.0.217.178:27684) STUFFTEXT "-attack"
+22:20:03 - {KoWe4Ka}_Mrrrrrrrrrrrrr (81.0.217.178:27684) STUFFTEXT "-attack2"
+22:20:03 - -=6apa6aLLIka=- (81.0.217.178:27684) STUFFTEXT "-attack"
+22:20:03 - spiznaz (81.0.217.178:27684) STUFFTEXT "-attack"
+22:20:03 - DoKToR (81.0.217.178:27684) STUFFTEXT "-attack"
+22:20:03 - SpiNoGrus (81.0.217.178:27684) STUFFTEXT "_201223857706624"
+22:20:03 - DuM4O (81.0.217.178:27684) STUFFTEXT "-attack"
+22:20:03 - LoVe M2da (81.0.217.178:27684) STUFFTEXT "-attack"
+22:20:03 - TyPyK MAK TO (81.0.217.178:27684) STUFFTEXT "-attack"
+22:20:03 - Noureddine10 (81.0.217.178:27684) STUFFTEXT "-attack"
+22:20:03 - spblive (81.0.217.178:27684) STUFFTEXT "-attack"
+22:20:04 - k0$ <3 Ira (81.0.217.178:27684) STUFFTEXT "-attack"
+22:20:04 - lzlal;s;as (81.0.217.178:27684) STUFFTEXT "-attack2"
+22:20:04 - IroNNNNNN (81.0.217.178:27684) STUFFTEXT "-attack"
+22:20:04 - ***vatam*** (81.0.217.178:27684) STUFFTEXT "-attack"
+22:20:04 - SnK (81.0.217.178:27684) STUFFTEXT "-attack"
+22:20:04 - Stasidze (81.0.217.178:27684) STUFFTEXT "-attack2"
+22:20:04 - 4 REGION || BETONSCHIK BLR (81.0.217.178:27684) STUFFTEXT "-attack2"
+22:20:04 - spiznaz (81.0.217.178:27684) STUFFTEXT "-attack2"
+22:20:04 - DoKToR (81.0.217.178:27684) STUFFTEXT "-attack2"
+22:20:04 - DuM4O (81.0.217.178:27684) STUFFTEXT "-attack2"
+22:20:04 - LoVe M2da (81.0.217.178:27684) STUFFTEXT "-attack2"
+22:20:04 - TyPyK MAK TO (81.0.217.178:27684) STUFFTEXT "-attack2"
+22:20:05 - Noureddine10 (81.0.217.178:27684) STUFFTEXT "-attack2"
+22:20:05 - spblive (81.0.217.178:27684) STUFFTEXT "-attack2"
+22:20:05 - k0$ <3 Ira (81.0.217.178:27684) STUFFTEXT "-attack2"
+22:20:05 - IroNNNNNN (81.0.217.178:27684) STUFFTEXT "-attack2"
+22:20:05 - ***vatam*** (81.0.217.178:27684) STUFFTEXT "-attack2"
+22:20:05 - SnK (81.0.217.178:27684) STUFFTEXT "-attack2"
+22:20:05 - -=6apa6aLLIka=- (81.0.217.178:27684) STUFFTEXT "-attack2"
+22:20:05 - SpiNoGrus (81.0.217.178:27684) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:20:05 - SpiNoGrus (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_innocent.wav""
+22:20:07 - (1)Moartea din Moldova (81.0.217.178:27684) initialized connection
+22:20:07 - SpiNoGrus (81.0.217.178:27684) STUFFTEXT "VTC_CheckStart"
+22:20:07 - SpiNoGrus (81.0.217.178:27684) STUFFTEXT "vgui_runscript"
+22:20:07 - SpiNoGrus (81.0.217.178:27684) STUFFTEXT "VTC_CheckEnd"
+22:20:07 - SpiNoGrus (81.0.217.178:27684) connected
+22:20:08 - SpiNoGrus (81.0.217.178:27684) STUFFTEXT "akce"
+22:20:08 - {KoWe4Ka}_Mrrrrrrrrrrrrr (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:20:08 - 4 REGION || BETONSCHIK BLR (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:20:08 - DoKToR (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:20:08 - DuM4O (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:20:09 - IroNNNNNN (81.0.217.178:27684) STUFFTEXT "kick_player_neaktivita"
+22:20:09 - spblive (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:20:09 - ***vatam*** (81.0.217.178:27684) STUFFTEXT "kick_player_neaktivita"
+22:20:09 - k0$ <3 Ira (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:20:09 - Noureddine10 (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:20:09 - ***vatam*** (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:20:09 - spiznaz (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:20:09 - IroNNNNNN (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:20:09 - lzlal;s;as (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:20:09 - SnK (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:20:09 - LoVe M2da (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:20:09 - (1)Moartea din Moldova (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+22:20:09 - TyPyK MAK TO (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:20:09 - -=6apa6aLLIka=- (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:20:09 - SpiNoGrus (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:20:09 - Stasidze (81.0.217.178:27684) STUFFTEXT "ttmenu"
+22:20:10 - DuM4O (81.0.217.178:27684) STUFFTEXT "kick_player_pozice"
+22:20:12 - qwentin tarantino (81.0.217.178:27684) initialized connection
+22:20:13 - qwentin tarantino (81.0.217.178:27684) STUFFTEXT "bind v piss"
+22:20:13 - qwentin tarantino (81.0.217.178:27684) disconnected, reason: "Kicked :"Misto je rezerovano pro VIP! Aktivuj si take vyhody na serveru pres www.gamesites.cz""
+22:20:17 - [VE] unnamed (81.0.217.178:27684) initialized connection
+22:20:17 - [VE] unnamed (81.0.217.178:27684) STUFFTEXT "bind v piss"
+22:20:18 - [VE] unnamed (81.0.217.178:27684) disconnected, reason: "Kicked :"Misto je rezerovano pro VIP! Aktivuj si take vyhody na serveru pres www.gamesites.cz""
+22:20:22 - RUls* Georgel (81.0.217.178:27684) initialized connection
+22:20:22 - RUls* Georgel (81.0.217.178:27684) disconnected, reason: "Client sent 'drop'"
+22:20:27 - ??MM|?? (81.0.217.178:27684) initialized connection
+22:20:29 - ??MM|?? (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+22:20:32 - oXoTHuk (81.0.217.178:27684) initialized connection
+22:20:34 - oXoTHuk (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+22:20:37 - vstrevozhenni kaban4ik (81.0.217.178:27684) initialized connection
+22:20:37 - ] kill
+22:20:39 - vstrevozhenni kaban4ik (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+22:20:47 - TOP-MS | Player (81.0.217.178:27684) initialized connection
+22:20:48 - TOP-MS | Player (81.0.217.178:27684) STUFFTEXT "bind v piss"
+22:20:48 - TOP-MS | Player (81.0.217.178:27684) disconnected, reason: "Kicked :"Misto je rezerovano pro VIP! Aktivuj si take vyhody na serveru pres www.gamesites.cz""
+22:20:52 - **aerkix** (81.0.217.178:27684) initialized connection
+22:20:53 - **aerkix** (81.0.217.178:27684) disconnected, reason: "Client sent 'drop'"
+22:20:57 - 7days`tM? - 4ekatilo - (81.0.217.178:27684) initialized connection
+22:20:58 - 7days`tM? - 4ekatilo - (81.0.217.178:27684) STUFFTEXT "bind v piss"
+22:20:59 - 7days`tM? - 4ekatilo - (81.0.217.178:27684) disconnected, reason: "Kicked :"Misto je rezerovano pro VIP! Aktivuj si take vyhody na serveru pres www.gamesites.cz""
+22:21:02 - Lew!s (81.0.217.178:27684) initialized connection
+22:21:03 - Lew!s (81.0.217.178:27684) STUFFTEXT "bind v piss"
+22:21:03 - Lew!s (81.0.217.178:27684) disconnected, reason: "Kicked :"Misto je rezerovano pro VIP! Aktivuj si take vyhody na serveru pres www.gamesites.cz""
+22:21:07 - y0nkicha (81.0.217.178:27684) initialized connection
+22:21:07 - y0nkicha (81.0.217.178:27684) disconnected, reason: "Client sent 'drop'"
+22:21:12 - *TER* (81.0.217.178:27684) initialized connection
+22:21:13 - *TER* (81.0.217.178:27684) STUFFTEXT "bind v piss"
+22:21:13 - *TER* (81.0.217.178:27684) disconnected, reason: "Kicked :"Misto je rezerovano pro VIP! Aktivuj si take vyhody na serveru pres www.gamesites.cz""
+22:21:17 - BeCeJIa9* (81.0.217.178:27684) initialized connection
+22:21:18 - BeCeJIa9* (81.0.217.178:27684) STUFFTEXT "bind v piss"
+22:21:18 - BeCeJIa9* (81.0.217.178:27684) STUFFTEXT "_01101603944368"
+22:21:18 - BeCeJIa9* (81.0.217.178:27684) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:21:19 - BeCeJIa9* (81.0.217.178:27684) STUFFTEXT "VTC_CheckStart"
+22:21:19 - BeCeJIa9* (81.0.217.178:27684) STUFFTEXT "vgui_runscript"
+22:21:19 - BeCeJIa9* (81.0.217.178:27684) STUFFTEXT "VTC_CheckEnd"
+22:21:19 - BeCeJIa9* (81.0.217.178:27684) connected
+22:21:20 - BeCeJIa9* (81.0.217.178:27684) STUFFTEXT "akce"
+22:21:27 - BeJIukuu* (81.0.217.178:27684) initialized connection
+22:21:28 - BeJIukuu* (81.0.217.178:27684) disconnected, reason: "Client sent 'drop'"
+22:21:28 - Paused
+22:21:28 - Stopping..
+22:21:29 - BeCeJIa9* (81.0.217.178:27684) disconnected, reason: "Client sent 'drop'"
+22:21:29 - SpiNoGrus (81.0.217.178:27684) disconnected, reason: "Client sent 'drop'"
+22:21:29 - LoVe M2da (81.0.217.178:27684) disconnected, reason: "Client sent 'drop'"
+22:21:29 - DuM4O (81.0.217.178:27684) disconnected, reason: "Client sent 'drop'"
+22:21:29 - -=6apa6aLLIka=- (81.0.217.178:27684) disconnected, reason: "Client sent 'drop'"
+22:21:29 - k0$ <3 Ira (81.0.217.178:27684) disconnected, reason: "Client sent 'drop'"
+22:21:29 - Noureddine10 (81.0.217.178:27684) disconnected, reason: "Client sent 'drop'"
+22:21:29 - spblive (81.0.217.178:27684) disconnected, reason: "Client sent 'drop'"
+22:21:29 - 4 REGION || BETONSCHIK BLR (81.0.217.178:27684) disconnected, reason: "Client sent 'drop'"
+22:21:29 - spiznaz (81.0.217.178:27684) disconnected, reason: "Client sent 'drop'"
+22:21:29 - DoKToR (81.0.217.178:27684) disconnected, reason: "Client sent 'drop'"
+22:21:29 - SnK (81.0.217.178:27684) disconnected, reason: "Client sent 'drop'"
+22:21:29 - TyPyK MAK TO (81.0.217.178:27684) disconnected, reason: "Client sent 'drop'"
+22:21:29 - Stasidze (81.0.217.178:27684) disconnected, reason: "Client sent 'drop'"
+22:21:29 - {KoWe4Ka}_Mrrrrrrrrrrrrr (81.0.217.178:27684) disconnected, reason: "Client sent 'drop'"
+22:21:29 - lzlal;s;as (81.0.217.178:27684) disconnected, reason: "Client sent 'drop'"
+22:21:29 - ***vatam*** (81.0.217.178:27684) disconnected, reason: "Client sent 'drop'"
+22:21:29 - IroNNNNNN (81.0.217.178:27684) STUFFTEXT "spk "ttt/win_innocent.wav""
+22:21:29 - IroNNNNNN (81.0.217.178:27684) STUFFTEXT "-attack"
+22:21:29 - IroNNNNNN (81.0.217.178:27684) STUFFTEXT "-attack2"
+22:21:29 - IroNNNNNN (81.0.217.178:27684) disconnected, reason: "Client sent 'drop'"
+22:21:29 - Stop
+22:21:33 - Start
+22:21:34 - Noob Lover ;-) (81.0.217.179:27307) initialized connection
+22:21:35 - Noob Lover ;-) (81.0.217.179:27307) STUFFTEXT "retry"
+22:21:35 - Noob Lover ;-) (81.0.217.179:27307) disconnected, reason: "Client sent 'drop'"
+22:21:35 - Noob Lover ;-) (81.0.217.179:27307) initialized connection
+22:21:37 - Noob Lover ;-) (81.0.217.179:27307) STUFFTEXT "_022112143266176"
+22:21:37 - Noob Lover ;-) (81.0.217.179:27307) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:21:39 - steven.G!` (81.0.217.179:27307) initialized connection
+22:21:39 - Noob Lover ;-) (81.0.217.179:27307) connected
+22:21:39 - steven.G!` (81.0.217.179:27307) STUFFTEXT "retry"
+22:21:39 - steven.G!` (81.0.217.179:27307) disconnected, reason: "Client sent 'drop'"
+22:21:39 - steven.G!` (81.0.217.179:27307) initialized connection
+22:21:39 - Noob Lover ;-) (81.0.217.179:27307) STUFFTEXT "akce"
+22:21:40 - steven.G!` (81.0.217.179:27307) STUFFTEXT "_211021038082179"
+22:21:40 - steven.G!` (81.0.217.179:27307) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:21:41 - steven.G!` (81.0.217.179:27307) connected
+22:21:41 - steven.G!` (81.0.217.179:27307) STUFFTEXT "stopsound"
+22:21:41 - Noob Lover ;-) (81.0.217.179:27307) STUFFTEXT "stopsound"
+22:21:41 - steven.G!` (81.0.217.179:27307) STUFFTEXT "mp3 stop"
+22:21:41 - Noob Lover ;-) (81.0.217.179:27307) STUFFTEXT "mp3 stop"
+22:21:41 - steven.G!` (81.0.217.179:27307) STUFFTEXT "-duck"
+22:21:41 - Noob Lover ;-) (81.0.217.179:27307) STUFFTEXT "-duck"
+22:21:41 - steven.G!` (81.0.217.179:27307) STUFFTEXT "-duck"
+22:21:41 - Noob Lover ;-) (81.0.217.179:27307) STUFFTEXT "-duck"
+22:21:41 - Noob Lover ;-) (81.0.217.179:27307) STUFFTEXT "human_gravity2"
+22:21:41 - Noob Lover ;-) (81.0.217.179:27307) STUFFTEXT "MP3Volume 0.5"
+22:21:41 - Noob Lover ;-) (81.0.217.179:27307) STUFFTEXT "Volume 0.2"
+22:21:41 - steven.G!` (81.0.217.179:27307) STUFFTEXT "akce"
+22:21:42 - steven.G!` (81.0.217.179:27307) STUFFTEXT "human_gravity2"
+22:21:42 - steven.G!` (81.0.217.179:27307) STUFFTEXT "MP3Volume 0.5"
+22:21:42 - steven.G!` (81.0.217.179:27307) STUFFTEXT "Volume 0.2"
+22:21:43 - Noob Lover ;-) (81.0.217.179:27307) STUFFTEXT "spk gamesites/gsirano.wav"
+22:21:43 - steven.G!` (81.0.217.179:27307) STUFFTEXT "spk gamesites/gsirano.wav"
+22:21:44 - Resident_Evil (81.0.217.179:27307) initialized connection
+22:21:44 - Resident_Evil (81.0.217.179:27307) STUFFTEXT "retry"
+22:21:44 - Resident_Evil (81.0.217.179:27307) disconnected, reason: "Client sent 'drop'"
+22:21:44 - Resident_Evil (81.0.217.179:27307) initialized connection
+22:21:45 - Resident_Evil (81.0.217.179:27307) STUFFTEXT "_02222023752667537"
+22:21:45 - Resident_Evil (81.0.217.179:27307) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:21:47 - Resident_Evil (81.0.217.179:27307) connected
+22:21:47 - Resident_Evil (81.0.217.179:27307) STUFFTEXT "akce"
+22:21:48 - Resident_Evil (81.0.217.179:27307) STUFFTEXT "human_gravity2"
+22:21:48 - Resident_Evil (81.0.217.179:27307) STUFFTEXT "MP3Volume 0.5"
+22:21:48 - Resident_Evil (81.0.217.179:27307) STUFFTEXT "Volume 0.2"
+22:21:49 - |Gan}I{a|spb (81.0.217.179:27307) initialized connection
+22:21:50 - |Gan}I{a|spb (81.0.217.179:27307) STUFFTEXT "retry"
+22:21:50 - |Gan}I{a|spb (81.0.217.179:27307) disconnected, reason: "Client sent 'drop'"
+22:21:50 - |Gan}I{a|spb (81.0.217.179:27307) initialized connection
+22:21:50 - |Gan}I{a|spb (81.0.217.179:27307) STUFFTEXT "_111001576746829"
+22:21:50 - |Gan}I{a|spb (81.0.217.179:27307) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:21:51 - Noob Lover ;-) (81.0.217.179:27307) STUFFTEXT "-duck"
+22:21:51 - Noob Lover ;-) (81.0.217.179:27307) STUFFTEXT "-duck"
+22:21:51 - Noob Lover ;-) (81.0.217.179:27307) disconnected, reason: "Fake players spamming or protocol violations"
+22:21:51 - steven.G!` (81.0.217.179:27307) disconnected, reason: "Fake players spamming or protocol violations"
+22:21:51 - Resident_Evil (81.0.217.179:27307) disconnected, reason: "Fake players spamming or protocol violations"
+22:21:51 - |Gan}I{a|spb (81.0.217.179:27307) disconnected, reason: "Fake players spamming or protocol violations"
+22:21:54 - _PlayForGame_ [Global Elite] (81.0.217.179:27307) initialized connection
+22:21:56 - _PlayForGame_ [Global Elite] (81.0.217.179:27307) disconnected, reason: "Cannot connect to "81.0.217.179:27307""
+22:21:59 - NeOnChIK (81.0.217.179:27307) initialized connection
+22:22:01 - NeOnChIK (81.0.217.179:27307) disconnected, reason: "Cannot connect to "81.0.217.179:27307""
+22:22:04 - [bot] Timosha (81.0.217.179:27307) initialized connection
+22:22:04 - [bot] Timosha (81.0.217.179:27307) disconnected, reason: "Client sent 'drop'"
+22:22:09 - http://forum.mon-cs.ru/ (81.0.217.179:27307) initialized connection
+22:22:11 - http://forum.mon-cs.ru/ (81.0.217.179:27307) disconnected, reason: "Cannot connect to "81.0.217.179:27307""
+22:22:14 - TAFTEL GUY (81.0.217.179:27307) initialized connection
+22:22:16 - TAFTEL GUY (81.0.217.179:27307) disconnected, reason: "Cannot connect to "81.0.217.179:27307""
+22:22:19 - WEER (81.0.217.179:27307) initialized connection
+22:22:21 - WEER (81.0.217.179:27307) disconnected, reason: "Cannot connect to "81.0.217.179:27307""

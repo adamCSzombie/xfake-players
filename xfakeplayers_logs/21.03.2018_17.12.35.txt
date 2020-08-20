@@ -1,0 +1,23 @@
+17:12:35 - XFakePlayers v1.13.1
+17:12:35 - Code by ZeaL
+ 
+17:12:35 - Loaded 6 names.
+17:12:35 - Loaded 1 servers.
+17:12:38 - Start
+17:12:38 - Matulik Lukiho Bertova (81.0.217.175:27540) initialized connection
+17:12:40 - Matulik Lukiho Bertova (81.0.217.175:27540) disconnected, reason: "Cannot connect to "81.0.217.175:27540""
+17:12:40 - Matulik Lukiho Bertova (81.0.217.175:27540) initialized connection
+17:12:42 - Matulik Lukiho Bertova (81.0.217.175:27540) disconnected, reason: "Cannot connect to "81.0.217.175:27540""
+17:12:42 - Matulik Lukiho Bertova (81.0.217.175:27540) initialized connection
+17:12:44 - Paused
+17:12:44 - Matulik Lukiho Bertova (81.0.217.175:27540) disconnected, reason: "Cannot connect to "81.0.217.175:27540""
+17:15:36 - Resumed
+17:15:36 - Luk? Fokoloko (81.0.217.175:27540) initialized connection
+17:15:38 - Luk? Fokoloko (81.0.217.175:27540) disconnected, reason: "Cannot connect to "81.0.217.175:27540""
+17:15:38 - Smajl?k :P (81.0.217.175:27540) initialized connection
+17:15:40 - Smajl?k :P (81.0.217.175:27540) disconnected, reason: "Cannot connect to "81.0.217.175:27540""
+17:15:40 - Paused
+17:15:40 - Smajl?k :P (81.0.217.175:27540) initialized connection
+17:15:40 - Stopping..
+17:15:40 - Smajl?k :P (81.0.217.175:27540) disconnected, reason: "Client sent 'drop'"
+17:15:40 - Stop

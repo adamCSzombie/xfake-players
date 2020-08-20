@@ -1,0 +1,31 @@
+22:20:10 - XFakePlayers v1.13.1
+22:20:10 - Code by ZeaL
+ 
+22:20:10 - Loaded 6 names.
+22:20:10 - Loaded 1 servers.
+22:20:26 - Start
+22:20:26 - Krystalovy Cukor (82.208.17.181:27016) initialized connection
+22:20:28 - Krystalovy Cukor (82.208.17.181:27016) STUFFTEXT "_221111121465876922"
+22:20:28 - Krystalovy Cukor (82.208.17.181:27016) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:20:28 - Krystalovy Cukor (82.208.17.181:27016) initialized connection
+22:20:28 - Krystalovy Cukor (82.208.17.181:27016) connected
+22:20:29 - Krystalovy Cukor (82.208.17.181:27016) STUFFTEXT "_20012214149879396"
+22:20:29 - Krystalovy Cukor (82.208.17.181:27016) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:20:29 - Luk? Fokoloko (82.208.17.181:27016) initialized connection
+22:20:30 - Krystalovy Cukor (82.208.17.181:27016) connected
+22:20:30 - Luk? Fokoloko (82.208.17.181:27016) STUFFTEXT "_122010024085203531"
+22:20:30 - Luk? Fokoloko (82.208.17.181:27016) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+22:20:31 - Luk? Fokoloko (82.208.17.181:27016) disconnected, reason: "Kicked : Skodenie portalu! Ban 30 minut! Pri zistenom opakovani budete trvale zabanovany!"
+22:20:31 - Krystalovy Cukor (82.208.17.181:27016) disconnected, reason: "Added to banned list"
+22:20:31 - Smajl?k :P (82.208.17.181:27016) initialized connection
+22:20:31 - Krystalovy Cukor (82.208.17.181:27016) disconnected, reason: "Added to banned list"
+22:20:33 - Smajl?k :P (82.208.17.181:27016) disconnected, reason: "Cannot connect to "82.208.17.181:27016""
+22:20:33 - ?efik :P (82.208.17.181:27016) initialized connection
+22:20:35 - ?efik :P (82.208.17.181:27016) disconnected, reason: "Cannot connect to "82.208.17.181:27016""
+22:20:35 - Smajl?k :P (82.208.17.181:27016) initialized connection
+22:20:37 - Smajl?k :P (82.208.17.181:27016) disconnected, reason: "Cannot connect to "82.208.17.181:27016""
+22:20:37 - ?efik :P (82.208.17.181:27016) initialized connection
+22:20:37 - Paused
+22:20:38 - Stopping..
+22:20:38 - ?efik :P (82.208.17.181:27016) disconnected, reason: "Client sent 'drop'"
+22:20:38 - Stop

@@ -1,0 +1,190 @@
+09:41:20 - XFakePlayers v1.13.1
+09:41:20 - Code by ZeaL
+ 
+09:41:21 - Loaded 6 names.
+09:41:21 - Loaded 1 servers.
+09:41:27 - Start
+09:41:27 - Matulik Lukiho Bertova (185.32.183.143:27015) initialized connection
+09:41:28 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "echo "* Privileges set""
+09:41:28 - Matulik Lukiho Bertova (185.32.183.143:27015) disconnected, reason: "Kicked :"[Asis4] Please remove steam id changer""
+09:41:29 - Smajl?k :P (185.32.183.143:27015) initialized connection
+09:41:29 - Smajl?k :P (185.32.183.143:27015) STUFFTEXT "echo "* Privileges set""
+09:41:30 - Smajl?k :P (185.32.183.143:27015) STUFFTEXT "_01212211511696701"
+09:41:30 - Smajl?k :P (185.32.183.143:27015) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+09:41:30 - Matulik Lukiho Bertova (185.32.183.143:27015) initialized connection
+09:41:31 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "echo "* Privileges set""
+09:41:31 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "_21214284027815"
+09:41:31 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+09:41:31 - Smajl?k :P (185.32.183.143:27015) connected
+09:41:32 - Matulik Lukiho Bertova (185.32.183.143:27015) initialized connection
+09:41:33 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "echo "* Privileges set""
+09:41:33 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "_110101601850589"
+09:41:33 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+09:41:33 - Matulik Lukiho Bertova (185.32.183.143:27015) connected
+09:41:34 - Smajl?k :P (185.32.183.143:27015) initialized connection
+09:41:35 - Smajl?k :P (185.32.183.143:27015) STUFFTEXT "echo "* Privileges set""
+09:41:35 - Smajl?k :P (185.32.183.143:27015) STUFFTEXT "_110101601850589"
+09:41:35 - Smajl?k :P (185.32.183.143:27015) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+09:41:35 - Matulik Lukiho Bertova (185.32.183.143:27015) connected
+09:41:36 - ?efik :P (185.32.183.143:27015) initialized connection
+09:41:37 - ?efik :P (185.32.183.143:27015) STUFFTEXT "echo "* Privileges set""
+09:41:37 - ?efik :P (185.32.183.143:27015) STUFFTEXT "_1111021073716441"
+09:41:37 - ?efik :P (185.32.183.143:27015) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+09:41:37 - Smajl?k :P (185.32.183.143:27015) connected
+09:41:38 - Matulik Lukiho Bertova (185.32.183.143:27015) initialized connection
+09:41:39 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "echo "* Privileges set""
+09:41:39 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "_0011220212061487556"
+09:41:39 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+09:41:39 - ?efik :P (185.32.183.143:27015) connected
+09:41:39 - Smajl?k :P (185.32.183.143:27015) STUFFTEXT "setinfo _vgui_menu 9"
+09:41:39 - Smajl?k :P (185.32.183.143:27015) STUFFTEXT "setinfo cl_lc 9"
+09:41:39 - Smajl?k :P (185.32.183.143:27015) QCC2 oycdqcofp "Bad CVAR request"
+09:41:40 - Matulik Lukiho Bertova (185.32.183.143:27015) initialized connection
+09:41:41 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "echo "* Privileges set""
+09:41:41 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "setinfo _vgui_menu 7"
+09:41:41 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "setinfo cl_lc 7"
+09:41:41 - Matulik Lukiho Bertova (185.32.183.143:27015) QCC2 osnzgrztg "Bad CVAR request"
+09:41:42 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "_101123035862727"
+09:41:42 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+09:41:43 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "setinfo _vgui_menu 6"
+09:41:43 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "setinfo cl_lc 6"
+09:41:43 - Matulik Lukiho Bertova (185.32.183.143:27015) QCC2 riizsjkze "Bad CVAR request"
+09:41:43 - Matulik Lukiho Bertova (185.32.183.143:27015) connected
+09:41:44 - Smajl?k :P (185.32.183.143:27015) initialized connection
+09:41:45 - Smajl?k :P (185.32.183.143:27015) STUFFTEXT "setinfo _vgui_menu 7"
+09:41:45 - Smajl?k :P (185.32.183.143:27015) STUFFTEXT "setinfo cl_lc 7"
+09:41:45 - Smajl?k :P (185.32.183.143:27015) STUFFTEXT "echo "* Privileges set""
+09:41:45 - Smajl?k :P (185.32.183.143:27015) QCC2 tsgtqealo "Bad CVAR request"
+09:41:45 - Smajl?k :P (185.32.183.143:27015) STUFFTEXT "_002212904652407"
+09:41:45 - Smajl?k :P (185.32.183.143:27015) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+09:41:46 - Matulik Lukiho Bertova (185.32.183.143:27015) connected
+09:41:46 - ?efik :P (185.32.183.143:27015) initialized connection
+09:41:47 - ?efik :P (185.32.183.143:27015) STUFFTEXT "setinfo _vgui_menu 9"
+09:41:47 - ?efik :P (185.32.183.143:27015) STUFFTEXT "setinfo cl_lc 9"
+09:41:47 - ?efik :P (185.32.183.143:27015) QCC2 pugmmwtis "Bad CVAR request"
+09:41:47 - ?efik :P (185.32.183.143:27015) STUFFTEXT "echo "* Privileges set""
+09:41:48 - ?efik :P (185.32.183.143:27015) STUFFTEXT "_000104092019805"
+09:41:48 - ?efik :P (185.32.183.143:27015) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+09:41:48 - Smajl?k :P (185.32.183.143:27015) connected
+09:41:49 - Smajl?k :P (185.32.183.143:27015) initialized connection
+09:41:50 - Smajl?k :P (185.32.183.143:27015) STUFFTEXT "echo "* Privileges set""
+09:41:50 - Smajl?k :P (185.32.183.143:27015) STUFFTEXT "_10202212147446410"
+09:41:50 - Smajl?k :P (185.32.183.143:27015) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+09:41:50 - ?efik :P (185.32.183.143:27015) connected
+09:41:51 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "setinfo _vgui_menu 8"
+09:41:51 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "setinfo cl_lc 8"
+09:41:51 - Matulik Lukiho Bertova (185.32.183.143:27015) QCC2 omkdmmntr "Bad CVAR request"
+09:41:51 - ?efik :P (185.32.183.143:27015) initialized connection
+09:41:52 - ?efik :P (185.32.183.143:27015) STUFFTEXT "echo "* Privileges set""
+09:41:52 - ?efik :P (185.32.183.143:27015) STUFFTEXT "_111112013916540053"
+09:41:52 - ?efik :P (185.32.183.143:27015) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+09:41:53 - Smajl?k :P (185.32.183.143:27015) connected
+09:41:53 - Matulik Lukiho Bertova (185.32.183.143:27015) initialized connection
+09:41:54 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "setinfo _vgui_menu 8"
+09:41:54 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "setinfo cl_lc 8"
+09:41:54 - Matulik Lukiho Bertova (185.32.183.143:27015) QCC2 ghdbyyzww "Bad CVAR request"
+09:41:54 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "echo "* Privileges set""
+09:41:54 - Matulik Lukiho Bertova (185.32.183.143:27015) disconnected, reason: "Kicked :"[Asis4] Please remove steam id changer""
+09:41:54 - Matulik Lukiho Bertova (185.32.183.143:27015) initialized connection
+09:41:55 - ?efik :P (185.32.183.143:27015) connected
+09:41:55 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "echo "* Privileges set""
+09:41:55 - Smajl?k :P (185.32.183.143:27015) STUFFTEXT "setinfo _vgui_menu 6"
+09:41:56 - Smajl?k :P (185.32.183.143:27015) STUFFTEXT "setinfo cl_lc 6"
+09:41:56 - Smajl?k :P (185.32.183.143:27015) QCC2 xiiuxbloo "Bad CVAR request"
+09:41:56 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "_0020103219349076"
+09:41:56 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+09:41:57 - Krystalovy Cukor (185.32.183.143:27015) initialized connection
+09:41:58 - Krystalovy Cukor (185.32.183.143:27015) STUFFTEXT "echo "* Privileges set""
+09:41:58 - Krystalovy Cukor (185.32.183.143:27015) disconnected, reason: "Kicked :"[Asis4] Please remove steam id changer""
+09:41:58 - Smajl?k :P (185.32.183.143:27015) initialized connection
+09:41:58 - ?efik :P (185.32.183.143:27015) STUFFTEXT "setinfo _vgui_menu 7"
+09:41:58 - ?efik :P (185.32.183.143:27015) STUFFTEXT "setinfo cl_lc 7"
+09:41:58 - ?efik :P (185.32.183.143:27015) QCC2 iswgbnakq "Bad CVAR request"
+09:41:59 - Matulik Lukiho Bertova (185.32.183.143:27015) connected
+09:42:00 - Smajl?k :P (185.32.183.143:27015) disconnected, reason: "Cannot connect to "185.32.183.143:27015""
+09:42:00 - Fresh Potraviny (185.32.183.143:27015) initialized connection
+09:42:01 - Smajl?k :P (185.32.183.143:27015) STUFFTEXT "setinfo _vgui_menu 9"
+09:42:01 - Smajl?k :P (185.32.183.143:27015) STUFFTEXT "setinfo cl_lc 9"
+09:42:01 - Smajl?k :P (185.32.183.143:27015) QCC2 pjjexebov "Bad CVAR request"
+09:42:02 - Fresh Potraviny (185.32.183.143:27015) disconnected, reason: "Cannot connect to "185.32.183.143:27015""
+09:42:02 - Krystalovy Cukor (185.32.183.143:27015) initialized connection
+09:42:03 - ?efik :P (185.32.183.143:27015) STUFFTEXT "setinfo _vgui_menu 6"
+09:42:03 - ?efik :P (185.32.183.143:27015) STUFFTEXT "setinfo cl_lc 6"
+09:42:03 - ?efik :P (185.32.183.143:27015) QCC2 keqosfszq "Bad CVAR request"
+09:42:04 - Krystalovy Cukor (185.32.183.143:27015) disconnected, reason: "Cannot connect to "185.32.183.143:27015""
+09:42:04 - Krystalovy Cukor (185.32.183.143:27015) initialized connection
+09:42:06 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "spk profun_furien_mod/monsterkill_new.wav"
+09:42:06 - Smajl?k :P (185.32.183.143:27015) STUFFTEXT "spk profun_furien_mod/monsterkill_new.wav"
+09:42:06 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "spk profun_furien_mod/monsterkill_new.wav"
+09:42:06 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "spk profun_furien_mod/monsterkill_new.wav"
+09:42:06 - Smajl?k :P (185.32.183.143:27015) STUFFTEXT "spk profun_furien_mod/monsterkill_new.wav"
+09:42:06 - Smajl?k :P (185.32.183.143:27015) STUFFTEXT "spk profun_furien_mod/monsterkill_new.wav"
+09:42:06 - ?efik :P (185.32.183.143:27015) STUFFTEXT "spk profun_furien_mod/monsterkill_new.wav"
+09:42:06 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "spk profun_furien_mod/monsterkill_new.wav"
+09:42:06 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "spk profun_furien_mod/monsterkill_new.wav"
+09:42:06 - ?efik :P (185.32.183.143:27015) STUFFTEXT "spk profun_furien_mod/monsterkill_new.wav"
+09:42:06 - Smajl?k :P (185.32.183.143:27015) STUFFTEXT "spk profun_furien_mod/monsterkill_new.wav"
+09:42:06 - ?efik :P (185.32.183.143:27015) STUFFTEXT "spk profun_furien_mod/monsterkill_new.wav"
+09:42:06 - Krystalovy Cukor (185.32.183.143:27015) disconnected, reason: "Cannot connect to "185.32.183.143:27015""
+09:42:07 - Matulik Lukiho Bertova (185.32.183.143:27015) initialized connection
+09:42:07 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "setinfo _vgui_menu 7"
+09:42:07 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "setinfo cl_lc 7"
+09:42:07 - Matulik Lukiho Bertova (185.32.183.143:27015) QCC2 jwsjadojk "Bad CVAR request"
+09:42:09 - Matulik Lukiho Bertova (185.32.183.143:27015) disconnected, reason: "Cannot connect to "185.32.183.143:27015""
+09:42:09 - Matulik Lukiho Bertova (185.32.183.143:27015) initialized connection
+09:42:09 - ?efik :P (185.32.183.143:27015) STUFFTEXT "mp3 play sound/profun_furien_mod/round_sound15.mp3"
+09:42:09 - Smajl?k :P (185.32.183.143:27015) STUFFTEXT "mp3 play sound/profun_furien_mod/round_sound9.mp3"
+09:42:09 - ?efik :P (185.32.183.143:27015) STUFFTEXT "mp3 play sound/profun_furien_mod/round_sound21.mp3"
+09:42:09 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "mp3 play sound/profun_furien_mod/round_sound8.mp3"
+09:42:09 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "mp3 play sound/profun_furien_mod/round_sound2.mp3"
+09:42:09 - ?efik :P (185.32.183.143:27015) STUFFTEXT "mp3 play sound/profun_furien_mod/round_sound15.mp3"
+09:42:09 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "mp3 play sound/profun_furien_mod/round_sound4.mp3"
+09:42:09 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "mp3 play sound/profun_furien_mod/round_sound26.mp3"
+09:42:10 - Smajl?k :P (185.32.183.143:27015) STUFFTEXT "mp3 play sound/profun_furien_mod/round_sound4.mp3"
+09:42:10 - Smajl?k :P (185.32.183.143:27015) STUFFTEXT "mp3 play sound/profun_furien_mod/roundsound16.mp3"
+09:42:10 - Smajl?k :P (185.32.183.143:27015) STUFFTEXT "mp3 play sound/profun_furien_mod/round_sound25.mp3"
+09:42:10 - Matulik Lukiho Bertova (185.32.183.143:27015) STUFFTEXT "mp3 play sound/profun_furien_mod/round_sound2.mp3"
+09:42:11 - Matulik Lukiho Bertova (185.32.183.143:27015) disconnected, reason: "Cannot connect to "185.32.183.143:27015""
+09:42:11 - Matulik Lukiho Bertova (185.32.183.143:27015) initialized connection
+09:42:13 - Matulik Lukiho Bertova (185.32.183.143:27015) disconnected, reason: "Cannot connect to "185.32.183.143:27015""
+09:42:13 - ?efik :P (185.32.183.143:27015) initialized connection
+09:42:15 - ?efik :P (185.32.183.143:27015) disconnected, reason: "Cannot connect to "185.32.183.143:27015""
+09:42:15 - ?efik :P (185.32.183.143:27015) initialized connection
+09:42:17 - ?efik :P (185.32.183.143:27015) disconnected, reason: "Cannot connect to "185.32.183.143:27015""
+09:42:18 - Smajl?k :P (185.32.183.143:27015) initialized connection
+09:42:20 - Smajl?k :P (185.32.183.143:27015) disconnected, reason: "Cannot connect to "185.32.183.143:27015""
+09:42:22 - Matulik Lukiho Bertova (185.32.183.143:27015) initialized connection
+09:42:24 - Matulik Lukiho Bertova (185.32.183.143:27015) disconnected, reason: "Cannot connect to "185.32.183.143:27015""
+09:42:24 - ?efik :P (185.32.183.143:27015) initialized connection
+09:42:24 - Matulik Lukiho Bertova (185.32.183.143:27015) disconnected, reason: "Added to banned list"
+09:42:24 - Smajl?k :P (185.32.183.143:27015) disconnected, reason: "Added to banned list"
+09:42:24 - Smajl?k :P (185.32.183.143:27015) disconnected, reason: "Added to banned list"
+09:42:24 - ?efik :P (185.32.183.143:27015) disconnected, reason: "Added to banned list"
+09:42:24 - Matulik Lukiho Bertova (185.32.183.143:27015) disconnected, reason: "Added to banned list"
+09:42:24 - ?efik :P (185.32.183.143:27015) disconnected, reason: "Added to banned list"
+09:42:24 - ?efik :P (185.32.183.143:27015) disconnected, reason: "Added to banned list"
+09:42:24 - Smajl?k :P (185.32.183.143:27015) disconnected, reason: "Added to banned list"
+09:42:24 - Matulik Lukiho Bertova (185.32.183.143:27015) disconnected, reason: "Added to banned list"
+09:42:24 - Matulik Lukiho Bertova (185.32.183.143:27015) disconnected, reason: "Added to banned list"
+09:42:24 - Matulik Lukiho Bertova (185.32.183.143:27015) disconnected, reason: "Added to banned list"
+09:42:24 - Smajl?k :P (185.32.183.143:27015) disconnected, reason: "Added to banned list"
+09:42:26 - ?efik :P (185.32.183.143:27015) disconnected, reason: "Cannot connect to "185.32.183.143:27015""
+09:42:26 - Fresh Potraviny (185.32.183.143:27015) initialized connection
+09:42:28 - Fresh Potraviny (185.32.183.143:27015) disconnected, reason: "Cannot connect to "185.32.183.143:27015""
+09:42:28 - Luk? Fokoloko (185.32.183.143:27015) initialized connection
+09:42:30 - Luk? Fokoloko (185.32.183.143:27015) disconnected, reason: "Cannot connect to "185.32.183.143:27015""
+09:42:30 - Fresh Potraviny (185.32.183.143:27015) initialized connection
+09:42:31 - Paused
+09:42:32 - Stopping..
+09:42:32 - Fresh Potraviny (185.32.183.143:27015) disconnected, reason: "Client sent 'drop'"
+09:42:32 - Stop
+09:42:32 - Start
+09:42:32 - Luk? Fokoloko (185.32.183.143:27015) initialized connection
+09:42:34 - Luk? Fokoloko (185.32.183.143:27015) disconnected, reason: "Cannot connect to "185.32.183.143:27015""
+09:42:34 - ?efik :P (185.32.183.143:27015) initialized connection
+09:42:36 - ?efik :P (185.32.183.143:27015) disconnected, reason: "Cannot connect to "185.32.183.143:27015""
+09:42:37 - Fresh Potraviny (185.32.183.143:27015) initialized connection
+09:42:38 - Paused
+09:42:39 - Fresh Potraviny (185.32.183.143:27015) disconnected, reason: "Cannot connect to "185.32.183.143:27015""
+09:42:39 - Stopping..
+09:42:39 - Stop

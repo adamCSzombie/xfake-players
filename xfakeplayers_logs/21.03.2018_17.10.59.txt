@@ -1,0 +1,121 @@
+17:10:59 - XFakePlayers v1.13.1
+17:10:59 - Code by ZeaL
+ 
+17:10:59 - Loaded 6 names.
+17:10:59 - Loaded 1 servers.
+17:11:04 - Start
+17:11:05 - Matulik Lukiho Bertova (81.0.217.178:27684) initialized connection
+17:11:06 - Matulik Lukiho Bertova (81.0.217.178:27684) STUFFTEXT "bind v piss"
+17:11:06 - Matulik Lukiho Bertova (81.0.217.178:27684) STUFFTEXT "retry"
+17:11:06 - Matulik Lukiho Bertova (81.0.217.178:27684) disconnected, reason: "Client sent 'drop'"
+17:11:06 - Matulik Lukiho Bertova (81.0.217.178:27684) initialized connection
+17:11:06 - Matulik Lukiho Bertova (81.0.217.178:27684) STUFFTEXT "bind v piss"
+17:11:06 - Matulik Lukiho Bertova (81.0.217.178:27684) STUFFTEXT "_0000021022004284551"
+17:11:06 - Matulik Lukiho Bertova (81.0.217.178:27684) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+17:11:06 - Matulik Lukiho Bertova (81.0.217.178:27684) STUFFTEXT "VTC_CheckStart"
+17:11:06 - Matulik Lukiho Bertova (81.0.217.178:27684) STUFFTEXT "vgui_runscript"
+17:11:06 - Matulik Lukiho Bertova (81.0.217.178:27684) STUFFTEXT "VTC_CheckEnd"
+17:11:06 - Matulik Lukiho Bertova (81.0.217.178:27684) connected
+17:11:07 - Matulik Lukiho Bertova (81.0.217.178:27684) STUFFTEXT "akce"
+17:11:10 - Krystalovy Cukor (81.0.217.178:27684) initialized connection
+17:11:10 - Krystalovy Cukor (81.0.217.178:27684) STUFFTEXT "bind v piss"
+17:11:10 - Krystalovy Cukor (81.0.217.178:27684) STUFFTEXT "retry"
+17:11:10 - Krystalovy Cukor (81.0.217.178:27684) disconnected, reason: "Client sent 'drop'"
+17:11:10 - Krystalovy Cukor (81.0.217.178:27684) initialized connection
+17:11:10 - Krystalovy Cukor (81.0.217.178:27684) STUFFTEXT "bind v piss"
+17:11:10 - Krystalovy Cukor (81.0.217.178:27684) STUFFTEXT "_2111022201994387186"
+17:11:10 - Krystalovy Cukor (81.0.217.178:27684) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+17:11:11 - Krystalovy Cukor (81.0.217.178:27684) STUFFTEXT "VTC_CheckStart"
+17:11:11 - Krystalovy Cukor (81.0.217.178:27684) STUFFTEXT "vgui_runscript"
+17:11:11 - Krystalovy Cukor (81.0.217.178:27684) STUFFTEXT "VTC_CheckEnd"
+17:11:11 - Krystalovy Cukor (81.0.217.178:27684) connected
+17:11:11 - Krystalovy Cukor (81.0.217.178:27684) STUFFTEXT "akce"
+17:11:15 - Fresh Potraviny (81.0.217.178:27684) initialized connection
+17:11:15 - Fresh Potraviny (81.0.217.178:27684) STUFFTEXT "bind v piss"
+17:11:15 - Fresh Potraviny (81.0.217.178:27684) STUFFTEXT "retry"
+17:11:15 - Fresh Potraviny (81.0.217.178:27684) disconnected, reason: "Client sent 'drop'"
+17:11:15 - Fresh Potraviny (81.0.217.178:27684) initialized connection
+17:11:15 - Fresh Potraviny (81.0.217.178:27684) STUFFTEXT "bind v piss"
+17:11:15 - Fresh Potraviny (81.0.217.178:27684) STUFFTEXT "_22024013926683"
+17:11:15 - Fresh Potraviny (81.0.217.178:27684) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+17:11:16 - Fresh Potraviny (81.0.217.178:27684) disconnected, reason: "Fake players spamming or protocol violations"
+17:11:16 - Matulik Lukiho Bertova (81.0.217.178:27684) disconnected, reason: "Fake players spamming or protocol violations"
+17:11:16 - Krystalovy Cukor (81.0.217.178:27684) disconnected, reason: "Fake players spamming or protocol violations"
+17:11:20 - Fresh Potraviny (81.0.217.178:27684) initialized connection
+17:11:22 - Fresh Potraviny (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+17:11:25 - Fresh Potraviny (81.0.217.178:27684) initialized connection
+17:11:27 - Fresh Potraviny (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+17:11:27 - Fresh Potraviny (81.0.217.178:27684) initialized connection
+17:11:29 - Fresh Potraviny (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+17:11:29 - Luk? Fokoloko (81.0.217.178:27684) initialized connection
+17:11:31 - Luk? Fokoloko (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+17:11:31 - Fresh Potraviny (81.0.217.178:27684) initialized connection
+17:11:33 - Fresh Potraviny (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+17:11:33 - Fresh Potraviny (81.0.217.178:27684) initialized connection
+17:11:35 - Fresh Potraviny (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+17:11:35 - Luk? Fokoloko (81.0.217.178:27684) initialized connection
+17:11:37 - Luk? Fokoloko (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+17:11:37 - Fresh Potraviny (81.0.217.178:27684) initialized connection
+17:11:39 - Fresh Potraviny (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+17:11:39 - Matulik Lukiho Bertova (81.0.217.178:27684) initialized connection
+17:11:41 - Matulik Lukiho Bertova (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+17:11:41 - Fresh Potraviny (81.0.217.178:27684) initialized connection
+17:11:43 - Fresh Potraviny (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+17:11:43 - Krystalovy Cukor (81.0.217.178:27684) initialized connection
+17:11:45 - Krystalovy Cukor (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+17:11:45 - Krystalovy Cukor (81.0.217.178:27684) initialized connection
+17:11:48 - Krystalovy Cukor (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+17:11:48 - Krystalovy Cukor (81.0.217.178:27684) initialized connection
+17:11:50 - Krystalovy Cukor (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+17:11:50 - Fresh Potraviny (81.0.217.178:27684) initialized connection
+17:11:52 - Fresh Potraviny (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+17:11:52 - Krystalovy Cukor (81.0.217.178:27684) initialized connection
+17:11:54 - Krystalovy Cukor (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+17:11:54 - ?efik :P (81.0.217.178:27684) initialized connection
+17:11:56 - ?efik :P (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+17:11:56 - Krystalovy Cukor (81.0.217.178:27684) initialized connection
+17:11:58 - Krystalovy Cukor (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+17:11:58 - Luk? Fokoloko (81.0.217.178:27684) initialized connection
+17:12:00 - Luk? Fokoloko (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+17:12:00 - Luk? Fokoloko (81.0.217.178:27684) initialized connection
+17:12:02 - Luk? Fokoloko (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+17:12:02 - Fresh Potraviny (81.0.217.178:27684) initialized connection
+17:12:04 - Fresh Potraviny (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+17:12:06 - Luk? Fokoloko (81.0.217.178:27684) initialized connection
+17:12:07 - Luk? Fokoloko (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+17:12:08 - Fresh Potraviny (81.0.217.178:27684) initialized connection
+17:12:10 - Fresh Potraviny (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+17:12:10 - Matulik Lukiho Bertova (81.0.217.178:27684) initialized connection
+17:12:12 - Matulik Lukiho Bertova (81.0.217.178:27684) disconnected, reason: "Cannot connect to "81.0.217.178:27684""
+17:12:12 - Smajl?k :P (81.0.217.175:27540) initialized connection
+17:12:12 - Smajl?k :P (81.0.217.175:27540) STUFFTEXT "bind v piss"
+17:12:12 - Smajl?k :P (81.0.217.175:27540) STUFFTEXT "retry"
+17:12:12 - Smajl?k :P (81.0.217.175:27540) disconnected, reason: "Client sent 'drop'"
+17:12:12 - Smajl?k :P (81.0.217.175:27540) initialized connection
+17:12:12 - Smajl?k :P (81.0.217.175:27540) STUFFTEXT "bind v piss"
+17:12:12 - Smajl?k :P (81.0.217.175:27540) STUFFTEXT "_2111022201994387186"
+17:12:12 - Smajl?k :P (81.0.217.175:27540) STUFFTEXT "fullserverinfo "\*gamedir\cstrike""
+17:12:13 - Smajl?k :P (81.0.217.175:27540) disconnected, reason: "Fake players spamming or protocol violations"
+17:12:13 - Krystalovy Cukor (81.0.217.175:27540) initialized connection
+17:12:13 - Paused
+17:12:13 - Stopping..
+17:12:13 - Krystalovy Cukor (81.0.217.175:27540) disconnected, reason: "Client sent 'drop'"
+17:12:13 - Stop
+17:12:15 - Start
+17:12:15 - ?efik :P (81.0.217.175:27540) initialized connection
+17:12:17 - ?efik :P (81.0.217.175:27540) disconnected, reason: "Cannot connect to "81.0.217.175:27540""
+17:12:17 - Krystalovy Cukor (81.0.217.175:27540) initialized connection
+17:12:19 - Krystalovy Cukor (81.0.217.175:27540) disconnected, reason: "Cannot connect to "81.0.217.175:27540""
+17:12:19 - Luk? Fokoloko (81.0.217.175:27540) initialized connection
+17:12:21 - Luk? Fokoloko (81.0.217.175:27540) disconnected, reason: "Cannot connect to "81.0.217.175:27540""
+17:12:21 - Matulik Lukiho Bertova (81.0.217.175:27540) initialized connection
+17:12:23 - Matulik Lukiho Bertova (81.0.217.175:27540) disconnected, reason: "Cannot connect to "81.0.217.175:27540""
+17:12:23 - Fresh Potraviny (81.0.217.175:27540) initialized connection
+17:12:25 - Fresh Potraviny (81.0.217.175:27540) disconnected, reason: "Cannot connect to "81.0.217.175:27540""
+17:12:25 - ?efik :P (81.0.217.175:27540) initialized connection
+17:12:27 - ?efik :P (81.0.217.175:27540) disconnected, reason: "Cannot connect to "81.0.217.175:27540""
+17:12:27 - Matulik Lukiho Bertova (81.0.217.175:27540) initialized connection
+17:12:29 - Paused
+17:12:29 - Matulik Lukiho Bertova (81.0.217.175:27540) disconnected, reason: "Cannot connect to "81.0.217.175:27540""
+17:12:29 - Stopping..
+17:12:29 - Stop
